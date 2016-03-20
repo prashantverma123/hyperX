@@ -44,8 +44,7 @@ INSTALLED_APPS = [
 
     'allauth',
     'allauth.account',
-    'rest_auth.registration',
-    'snippets.apps.SnippetsConfig'
+    'rest_auth.registration'
 
 
 
